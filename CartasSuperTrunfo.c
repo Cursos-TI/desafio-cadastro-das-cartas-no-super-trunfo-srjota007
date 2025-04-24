@@ -3,13 +3,13 @@
 int main(){
     printf("Desafio super trunfo iniciante\n");
 
-char estado[8];
-char código[10];
-char nome da cidade[15];
-int população;
-float area;
-float PIB;
-int número de pontos turisticos; 
+    char estado[8];
+    char codigo[10];
+    char cidade[15];
+    int população;
+    float area;
+    float PIB;
+    int turisticos; 
 // Tema 1 - Cadastro das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de cadastro de cartas de cidades.
 // Siga os comentários para implementar cada parte do desafio.
