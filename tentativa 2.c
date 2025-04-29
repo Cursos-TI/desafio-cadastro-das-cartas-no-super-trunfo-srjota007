@@ -4,7 +4,7 @@ int main(){
 
     printf("Desafio super trunfo iniciante \n");
     char estado[15],codigo[5],cidade[10];
-    int populaçao,turisticos;
+    int pop ,turisticos;
     float area,PIB;
 
     printf("carta 1\n");
@@ -19,7 +19,7 @@ int main(){
     scanf("%s", &cidade);
 
     printf("Digite o numero da populaçao: \n");
-    scanf("%d", &populaçao);
+    scanf("%d", &pop);
 
     printf("Digite numeros de pontos turisticos: \n");
     scanf("%d", &turisticos);
@@ -42,7 +42,7 @@ int main(){
     scanf("%s", &cidade);
 
     printf("Digite o numero da populaçao: \n");
-    scanf("%d", &populaçao);
+    scanf("%d", &pop);
 
     printf("Digite numeros de pontos turisticos: \n");
     scanf("%d", &turisticos);
@@ -52,8 +52,8 @@ int main(){
 
     printf("Digite o PIB: \n");
     scanf("%d", &PIB);
-
     
+    return 0;
 
 
 
